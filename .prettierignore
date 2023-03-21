@@ -1,0 +1,16 @@
+/coverage
+<<<<<<< HEAD
+<<<<<<< HEAD
+/build
+.husky/pre-commit
+.eslintignore
+.prettierignore
+=======
+/build
+>>>>>>> ef5c31c (chore: ESLint and Git Pre commit hook 184651322)
+=======
+/build
+.husky/pre-commit
+.eslintignore
+.prettierignore
+>>>>>>> b7b0916 (chore: Setup eslint-babel 184651322)

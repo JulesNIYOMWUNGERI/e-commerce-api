@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "nmjules77",
+    "database": "teamdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "testing": {
+    "username": "postgres",
+    "password": "nmjules77",
+    "database": "testingdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "nmjules77",
+    "database": "productiondb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
